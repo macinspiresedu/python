@@ -243,3 +243,14 @@ using their name.
 name = input('What is your name? ')
 print ('Hi {}. Your name has {} characters.'.format(name, len(name)))
 ```
+
+Also, have the students create a program that asks the user to enter their
+name and their age. Then, print out a message that tells them the year in
+which they will 100 years old.
+
+```python3
+name = input("What is your name: ")
+age = int(input("How old are you: "))
+year = str((2018 - age) + 100)
+print(name + " will be 100 years old in the year " + year)
+```
