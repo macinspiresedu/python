@@ -11,11 +11,11 @@ After the completion of this course, students will have a cursory level understa
 Students will learn core Python concepts and run exercises in the cloud environment provided by [repl.it.](https://repl.it/).
 
 ## Sections
-1. [Introduction](https://github.com/macinspiresedu/python/tree/master/introduction)
-2. [Calculations & Variables](https://github.com/macinspiresedu/python/tree/master/calculations)
-3. [Strings](https://github.com/macinspiresedu/python/tree/master/strings)
-5. [Containers](https://github.com/macinspiresedu/python/tree/master/containers)
-6. [Booleans & If]()
-6. [Loops](https://github.com/macinspiresedu/python/tree/master/loops)
-8. [Functions](https://github.com/macinspiresedu/python/tree/master/functions)
-9. [Classes](https://github.com/macinspiresedu/python/tree/master/classes)
+1. [Introduction](https://github.com/macinspiresedu/python/blob/master/introduction.md)
+2. [Calculations & Variables](https://github.com/macinspiresedu/python/blob/master/calculations-variables.md)
+3. [Strings](https://github.com/macinspiresedu/python/blob/master/strings.md)
+5. [Containers](https://github.com/macinspiresedu/python/blob/master/containers.md)
+6. [Booleans & If](https://github.com/macinspiresedu/python/blob/master/booleans-if.md)
+6. [Loops](https://github.com/macinspiresedu/python/blob/master/loops.md)
+8. [Functions](https://github.com/macinspiresedu/python/blob/master/functions.md)
+9. [Classes](https://github.com/macinspiresedu/python/blob/master/classes.md)
