@@ -12,11 +12,10 @@ Students will learn core Python concepts and run exercises in the cloud environm
 
 ## Sections
 1. [Introduction](https://github.com/macinspiresedu/python/tree/master/introduction)
-2. [Calculations](https://github.com/macinspiresedu/python/tree/master/calculations)
+2. [Calculations & Variables](https://github.com/macinspiresedu/python/tree/master/calculations)
 3. [Strings](https://github.com/macinspiresedu/python/tree/master/strings)
-4. [Variables](https://github.com/macinspiresedu/python/tree/master/variables)
 5. [Containers](https://github.com/macinspiresedu/python/tree/master/containers)
+6. [Booleans & If]()
 6. [Loops](https://github.com/macinspiresedu/python/tree/master/loops)
-7. [Selection](https://github.com/macinspiresedu/python/tree/master/selection)
 8. [Functions](https://github.com/macinspiresedu/python/tree/master/functions)
 9. [Classes](https://github.com/macinspiresedu/python/tree/master/classes)
