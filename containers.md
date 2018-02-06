@@ -1,7 +1,7 @@
 # Containers
 ## Lists
 ### List Container
-Introduce the string type and describe some typical usages.
+Introduce the list container and describe some typical usages.
 Explain how lists are constructed with square brackets and commas.
 
 
