@@ -48,7 +48,7 @@ lst.append(int(input('Number three: ')))
 
 ## List Indexing
 Explain how list indexing works. Students should be familiar with the
-syntax by now, as should have seen it when working with strings. Nevertheless,
+syntax by now, as they should have seen it when working with strings. Nevertheless,
 it does not hurt to go over it again.
 
 ### Exercise
@@ -78,7 +78,7 @@ Explain how list addition works and how it creates a new combined list.
 
 ### Exercise
 Extend the previous exercise by having students creating a variable that
-contains the sum of the master list and the user inputted list. Then,
+contains the combination of the master list and the user inputted list. Then,
 print out that new list.
 
 ```python3
@@ -111,7 +111,7 @@ Have students create a single entry dictionary of their favorite color.
 The key will be their name, and the value will their favorite color.
 
 ```python3
-fav_colors = {'Yaneury': 'Red'}
+fav_colors = {'John': 'Red'}
 
 ```
 
@@ -151,7 +151,7 @@ print (fav_colors)
 Briefly touch on key-value deletion.
 
 ## For Loops with Lists
-Introduce students to for loops using the lists (not range).
+Introduce students to for-loops using the lists (not range).
 
 ### Exercise
 Have students make as big a list as possible. Instruct them to create
@@ -164,8 +164,8 @@ for el in lst:
 ```
 
 ## For Loops with Range
-Introduce students to creating for loops with the range function.
-Show them how range works outside of a for loop.
+Introduce students to creating for-loops with the range function.
+Show them how range works outside of a for-loop.
 
 
 ### Exercise
@@ -179,7 +179,7 @@ for i in range(n):
 ```
 
 ## For Loops with Dictionaries
-Introduce students to dictionary-based for loops.
+Introduce students to dictionary-based for-loops.
 
 ### Exercise
 Have students extend on the favorite color exercise by looping 
