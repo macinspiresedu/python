@@ -5,13 +5,18 @@ be constructed with comparison operators, boolean operators and
 'True' or 'False'.
 
 ### Exercise
-Run the program under tests/boolean-test.py on repl.it. Project it onto a big
+Run the program under [tests/boolean-test.py](https://github.com/macinspiresedu/python/blob/master/tests/boolean-test.py) on repl.it. Project it onto a big
 screen or have the students huddle around a single computer. This program will
 test their understanding of boolean expressions. Have them try to answer the
 questions and explain any wrong or right answer.
 
 ## If
+Go over if statements usage and constructions. 
+Connect it with the boolean expressions that they previously practiced. Go over else-if and else statements as well.
+
 ### Exercise
+Have the students write a script that asks the user for their age and compares against the student's age.
+For each case (ages are equal, user's age is greater, student's age is greater) have them print out a statement.
 
 #### Age Comparison
 
@@ -31,9 +36,11 @@ else:
 
 #### Morse Code
 At this point the students should have enough knowledge to build a simple
-morse code translator. Review the contents of programs/morse-code.py to
+morse code translator. Review the contents of [programs/morse-code.py](https://github.com/macinspiresedu/python/blob/master/programs/morse-code.py) to
 see a sample solution. Any new material needed (like the .upper() and 'in') should
-be reviewed before the students tackle on developing their own solution.
+be reviewed before the students tackle on developing their own solution. Help them develop
+the translator and don't be too restrictive as to what they can and to how they'll build it.
+If they use inefficient methods, use it as a teaching moment to describe a better way to do it.
 
 ## While
 TBD
