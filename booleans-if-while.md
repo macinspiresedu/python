@@ -36,6 +36,19 @@ see a sample solution. Any new material needed (like the .upper() and 'in') shou
 be reviewed before the students tackle on developing their own solution.
 
 ## While
-TBD
+Introduce students to while loops and explain the difference between while loops
+and for loops. 
 
-### Exercise
+### Fun Programs
+At this point, the students should be to work on the number
+guessing game. A sample solution for that challenge can be found under programs/number-guess.py
+Briefly introduce the 'random' module. Hiding away the details about how 'import'
+works. Focus on explaining that they can use 'random.randint' to get a random
+number.
+
+Another program that the students are able to develop at this point is the
+Rot13 translator. Briefly explain the ord() and chr() functions before asking
+them to implement it. A sample solution can be found under programs/rot13.py.
+
+A third program that the students can work on is the Mad Libs generator program.
+A sample solution of this can be found programs/mad-libs.py.

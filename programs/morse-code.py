@@ -25,6 +25,6 @@ for c in text:
     if c.upper() in translations:
         result += translations[c.upper()]
     else:
-        result += c.upper()
+        result += c
 
 print("Here's your translation: {}".format(result))
