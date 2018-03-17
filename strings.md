@@ -15,19 +15,6 @@ print ('He said: "I am leaving!"')
 
 ```
 
-## String Escape Characters
-Explain the use of escape characters.
-In particular, show them the three escape characters: \', \", and \n.
-
-### Exercise
-Have students print the same string as before.
-But this time, they must use escape characters and add a newline.
-
-```python3
-print ('I\'m learning Python :D\n')
-print ("He said: \"I am leaving!\"\n")
-```
-
 ## String Formatting
 Introduce students to the basic usage of Python3's formatting functionality.
 
@@ -73,7 +60,7 @@ print ('You will be 100 years old in the year {}'.format(100 - age + 2018))
 Introduce students to the **len** function.
 
 ### Exercise
-Extend the previous exercise having the students
+Extend the previous exercise by having the students
 print the amount of character's in the user's name.
 
 ```python3
